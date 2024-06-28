@@ -1,0 +1,6 @@
+project: ggwave
+target: ggwave
+
+cmds:
+  - cmd: /ggwave-from-file @@
+    timeout: 3
